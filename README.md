@@ -55,7 +55,7 @@ Please note that we can't guarantee that the available library versions are comp
 2. Install the following libraries with their headers
    * libatk1.0
    * [libcinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop)
-   * libgdk-pixbuf2.0
+   * libgdk-pixbuf-2.0
    * libgirepository1.0
    * libglib2.0
    * libgtk-3
