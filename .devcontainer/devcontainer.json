@@ -1,0 +1,5 @@
+{
+  "name": "XViewer C++ DevBox",
+  "image": "ghcr.io/jakoch/cpp-devbox:trixie-latest",
+  "postCreateCommand": "sudo apt update && sudo apt install build-essential devscripts equivs git meson gsettings-desktop-schemas"
+}
